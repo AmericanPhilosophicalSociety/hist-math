@@ -1,0 +1,157 @@
+@import "components/header.css";
+@import "components/footer.css";
+
+body {
+  color: #222;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+}
+
+a {
+  color: #00e;
+  text-decoration: none;
+}
+
+main {
+  max-width: 100%;
+  margin: auto;
+  text-align: justify;
+}
+
+@media (min-width: 576px) {
+  main {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  main {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  main {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  main {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 1400px) {
+  main {
+    max-width: 1320px;
+  }
+}
+
+:root {
+  --angle: 60deg;
+  --outer-spacing: 10rem;
+  --shape-size: 8rem;
+}
+
+.principal > li, .secondary > li {
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  padding: 10px 10px 18px 10px;
+
+  width: var(--shape-size);
+  height: var(--shape-size);
+  border-radius: 50%;
+}
+
+#trig-menu {
+  list-style: none;
+  padding-inline-start: 0px;
+  display: flex;
+}
+
+@media (min-width: 768px) {
+  #trig-menu {
+    display: block;
+    margin: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  #trig-menu ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    padding-inline-start: 0px;
+  }
+}
+
+
+.principal {
+  position: relative;
+  z-index: 2;
+  padding-left: 0px;
+
+  li {
+    transform: translateX(
+      calc(sin(var(--angle) * var(--i)) * var(--shape-size) / 2)
+    );
+    background-color: rgb(255, 255, 255, 0.7);
+    background-blend-mode: lighten;
+  }
+}
+
+@media (min-width: 768px) {
+  .principal li {
+    transform: translateY(
+      calc(sin(var(--angle) * var(--i)) * var(--shape-size) / 2)
+    );
+  }
+}
+
+.secondary {
+  position: absolute;
+
+  li {
+    transform: translateX(
+      calc(cos(var(--angle) * var(--i) + var(--angle)) * var(--shape-size) / 2)
+    );
+    background-color: rgb(247, 174, 134, 0.8);
+  }
+}
+
+@media (min-width: 768px) {
+  .secondary li {
+    transform: translateY(
+      calc(cos(var(--angle) * var(--i) + var(--angle)) * var(--shape-size) / 2)
+    );
+  }
+}
+
+#trig-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+
+  padding-bottom: var(--outer-spacing);
+}
+
+#early-america-circle {
+  background-image: url("images/magic-circle.jpg");
+}
+
+#nineteenth-c-circle {
+  background-image: url("images/practical-navigator.png");
+}
+
+#early-twentieth-circle {
+  background-image: url("images/post-manu.jpg");
+  background-size: 100%;
+}
+
+#postwar-circle {
+  background-image: url("images/eniac.jpg");
+  background-size: 110%;
+}

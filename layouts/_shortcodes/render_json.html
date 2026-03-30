@@ -1,0 +1,40 @@
+{{ $data := dict }}
+{{ $path := "data.json" }}
+{{ with .Page.Resources.Get $path }}
+  {{ with . | transform.Unmarshal }}
+    {{ $data = . }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get page resource %q" $path }}
+{{ end }}
+{{ $counter := 1}}
+{{ with $data.sections }}
+  {{ range . }}
+    <h2>{{ .title }}</h2>
+    <p>{{ .label }}</p>
+    {{ with .objects }}
+      {{ range . }}
+        <div id="{{ $counter }}"></div>
+        <script type="text/javascript">
+            let mirador_{{ $counter | safeJS }} = Mirador.viewer({
+                "id": "{{ $counter }}",
+                "manifests": {
+                    "{{ .manifest }}": {
+                        "provider": "American Philosophical Society"
+                    }
+                },
+                "windows": [
+                    {
+                        "loadedManifest": "{{ .manifest }}",
+                        "canvasIndex": 2,
+                        "thumbnailNavigationPosition": "far-bottom"
+                    }
+                ]
+            });
+        </script>
+        <p>{{ .label }}</p>
+        {{ $counter = add $counter 1}}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}

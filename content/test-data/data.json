@@ -1,0 +1,34 @@
+{
+    "title": "American Mathematics in the Revolutionary Era",
+    "sections": 
+    [
+        {
+            "title": "Benjamin Franklin",
+            "label": "Benjamin Franklin embraced mathematics as a playful yet intellectually serious pursuit. The ingenious magic squares he created had the property not only that did the rows and columns add to the same sum but also that various broken diagonals and symmetrically arranged subsets did, too. For him, such work blended recreation and philosophical exercise, showing how numerical harmony could mirror rational order in nature. Though he published little on the subject, his magic squares circulated widely in manuscript, becoming a small but distinctive contribution to colonial mathematics.",
+            "objects": [
+                {   "manifest": "https://diglib.amphilsoc.org/node/60550/manifest",
+                    "label": "Benjamin Franklin (1706–1790)"
+                },
+                {
+                    "manifest": "https://diglib.amphilsoc.org/node/337070/manifest",
+                    "label": "A fragment of a letter [1752] from Franklin to English botanist, Peter Collinson, describing a circular magic square. From the Franklin Papers, Box 96."
+                }
+
+            ]
+        },
+        {
+            "title": "David Rittenhouse",
+            "label": "David Rittenhouse, by contrast, used mathematics fundamentally in his work.  A self-taught Philadelphia clockmaker, astronomer, and statesman, he both constructed some of the most mathematically precise instruments in early America and compiled almanacks. His calculations of the 1769 transit of Venus made him one of the first Americans to win international recognition for his scientific achievements.  Rittenhouse’s ability to merge mathematical knowledge with mechanical skill illustrates a key feature of eighteenth-century mathematics in the colonies, its close alignment with practical scientific needs.",
+            "objects": [
+                {
+                    "manifest": "https://diglib.amphilsoc.org/node/60441/manifest",
+                    "label": "David Rittenhouse (1732–1796)"
+                },
+                {
+                    "manifest": "https://diglib.amphilsoc.org/node/57423/manifest",
+                    "label": "David Rittenhouse's rough calculations."
+                }
+            ]
+        }
+    ]
+}

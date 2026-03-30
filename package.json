@@ -1,0 +1,23 @@
+{
+  "name": "hist-math",
+  "version": "0.1.0",
+  "description": "Hugo site for the history of math at the American Philosophical Society",
+  "homepage": "https://github.com/AmericanPhilosophicalSociety/hist-math#readme",
+  "bugs": {
+    "url": "https://github.com/AmericanPhilosophicalSociety/hist-math/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmericanPhilosophicalSociety/hist-math.git"
+  },
+  "license": "Apache-2.0",
+  "author": "David Ragnar Nelson",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mirador": "^4.0.0"
+  }
+}
