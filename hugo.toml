@@ -1,4 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Contours of American Mathematics'
-theme = 'rittenhouse'
+theme = ['rittenhouse', 'hugo-bibliography']
+[params]
+    groupID = 6563225
