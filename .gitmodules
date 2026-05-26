@@ -1,0 +1,3 @@
+[submodule "themes/hugo-bibliography"]
+	path = themes/hugo-bibliography
+	url = git@github.com:drnelson6/hugo-bibliography.git
