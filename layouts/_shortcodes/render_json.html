@@ -14,24 +14,12 @@
     <p>{{ .label }}</p>
     {{ with .objects }}
       {{ range . }}
-        <div id="{{ $counter }}"></div>
-        <script type="text/javascript">
-            let mirador_{{ $counter | safeJS }} = Mirador.viewer({
-                "id": "{{ $counter }}",
-                "manifests": {
-                    "{{ .manifest }}": {
-                        "provider": "American Philosophical Society"
-                    }
-                },
-                "windows": [
-                    {
-                        "loadedManifest": "{{ .manifest }}",
-                        "canvasIndex": 2,
-                        "thumbnailNavigationPosition": "far-bottom"
-                    }
-                ]
-            });
-        </script>
+        <div class="gallery-item">
+          <img src="{{ .image }}">
+        </div>
+        {{ if .manifest }}
+          <p>{{ .manifest }}</p>
+        {{ end }}
         <p>{{ .label }}</p>
         {{ $counter = add $counter 1}}
       {{ end }}

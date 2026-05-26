@@ -5,6 +5,7 @@ body {
   color: #222;
   font-family: 'Roboto', sans-serif;
   line-height: 1.5;
+  margin: 0px;
 }
 
 a {
@@ -154,4 +155,9 @@ main {
 #postwar-circle {
   background-image: url("images/eniac.jpg");
   background-size: 110%;
+}
+
+.gallery-item > img {
+  max-width: 100%;
+  max-height: 80vh;
 }
