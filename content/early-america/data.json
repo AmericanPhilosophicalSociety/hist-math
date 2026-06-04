@@ -4,7 +4,7 @@
     [
         {
             "title": "Benjamin Franklin",
-            "label": "Benjamin Franklin contributed to mathematics in a playful yet ingenious way. His magic squares featured two defining characteristics. Not only did the rows and columns add up to the same sum, but so did the various broken diagonals and symmetrically arranged subsets. These squares showed how numerical harmony could mirror rational order in nature in an entertaining way.",
+            "label": "Benjamin Franklin embraced mathematics in a playful yet ingenious way. His magic squares featured two defining characteristics. Not only did the rows and columns add up to the same sum, but so did the various broken diagonals and symmetrically arranged subsets. This work blended recreation and philosophical exercise, showing how numerical harmony could mirror rational order in nature. The wide circulation of his magic squares were a small but distinctive contribution to colonial mathematics.",
             "background": "magic-squares.jpg",
             "objects": [
                 {   "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_4572_OBJ/full/full/0/default.jpg",
@@ -31,7 +31,6 @@
         },
         {
             "title": "David Rittenhouse",
-            "label": "Mathematics was fundamental to David Rittenhouse's work.  Rittenhouse was a self-taught Philadelphia clockmaker, astronomer, and statesman. He constructed some of the most mathematically precise instruments in early America. He also compiled almanacs. In 1769 Rittenhouse observed the Transit of Venus and calculated the distance between the earth and the sun. This achievement won him international recognition, one of the first Americans to do so.  Rittenhouse’s mathematical work was rooted in practical scientific needs. This was a typical trait of eighteenth-century colonial mathematics.",
             "background": "rittenhouse-trig.jpg",
             "objects": [
                 {
