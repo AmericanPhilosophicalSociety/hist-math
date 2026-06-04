@@ -1,5 +1,6 @@
 {{ $data := dict }}
 {{- $path := .Get "path" }}
+{{- $bib := split .Inner "<--->" -}}
 {{ with .Page.Resources.Get $path }}
   {{ with . | transform.Unmarshal }}
     {{ $data = . }}
@@ -14,8 +15,6 @@
       {{ $background := $section.background }}
       {{ with $.Page.Resources.Get $background }}
         <div style="background-image: url('{{ . }}');" class=section-label-container>
-      {{ else }}
-          <p>Loser...</p>
       {{ end }}
       <div class="section-label">
         <p>{{ $section.label | safeHTML }}</p>
@@ -31,6 +30,9 @@
           <p><a href={{ .manifest }}>IIIF</a></p>
         {{ end }}
       {{ end }}
+      {{ $bibEntry := index $bib $index }}
+      <h3>Further reading:</h3>
+      {{ $bibEntry | safeHTML }}
       {{ if ne (add $index 1) $len }}
        <hr>
       {{ end }}

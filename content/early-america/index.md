@@ -5,3 +5,7 @@ draft = false
 +++
 
 {{< render_json path="data.json" >}}
+  {{<bibliography style="chicago-note-bibliography" keyword="LEY6IBPJ">}}
+  <--->
+  {{<bibliography style="chicago-note-bibliography" keyword="3UZ7UPQA">}}
+{{< /render_json >}}
