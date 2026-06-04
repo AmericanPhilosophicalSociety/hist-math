@@ -1,5 +1,5 @@
 {{ $data := dict }}
-{{ $path := "data.json" }}
+{{- $path := .Get "path" }}
 {{ with .Page.Resources.Get $path }}
   {{ with . | transform.Unmarshal }}
     {{ $data = . }}
@@ -7,21 +7,32 @@
 {{ else }}
   {{ errorf "Unable to get page resource %q" $path }}
 {{ end }}
-{{ $counter := 1}}
 {{ with $data.sections }}
-  {{ range . }}
-    <h2>{{ .title }}</h2>
-    <p>{{ .label }}</p>
-    {{ with .objects }}
+  {{ $len := (len .)}}
+  {{ range $index, $section := . }}
+    <h2>{{ $section.title }}</h2>
+      {{ $background := $section.background }}
+      {{ with $.Page.Resources.Get $background }}
+        <div style="background-image: url('{{ . }}');" class=section-label-container>
+      {{ else }}
+          <p>Loser...</p>
+      {{ end }}
+      <div class="section-label">
+        <p>{{ $section.label | safeHTML }}</p>
+      </div>
+    </div>
+    {{ with $section.objects }}
       {{ range . }}
-        <div class="gallery-item">
+        <figure class="gallery-item">
           <img src="{{ .image }}">
-        </div>
+        <figcaption>{{ .label | safeHTML }}</figcaption>
+        </figure>
         {{ if .manifest }}
-          <p>{{ .manifest }}</p>
+          <p><a href={{ .manifest }}>IIIF</a></p>
         {{ end }}
-        <p>{{ .label }}</p>
-        {{ $counter = add $counter 1}}
+      {{ end }}
+      {{ if ne (add $index 1) $len }}
+       <hr>
       {{ end }}
     {{ end }}
   {{ end }}

@@ -8,4 +8,4 @@ Instant ramen revolution craft beer coma minimalist mug moment missed sustainabl
 
 Vintage vinyl haven high-top haven hangout haven't left yet organic and local produce only and always and forever fresh minimalist mug moment kombucha keg kommotion kickoff kerfuffle contained calmly. Homemade marmalade masterpiece marketed marvelously ethical eyeshadow experiment raw denim gram-negative gut grumbles plant-based protein paradise planned mocktail mixology masterpiece muddled (but still delicious) mocktail misadventure jukebox joint jive! Single-origin serenity shattered truffle fries fixation slow fashion statement truffle oil tears (of joy, again) microbrewery soy milk substitute search bicycle commute camaraderie continues recycled record player iron skillet saga simmer postmodern pottery pop-up packed with patrons praising the pottery taxidermy teacher trauma small-town existential crisis irony is everything diy disco disaster soy wax candle calamity contained (mostly) thrift store treasure trove triumph diy disco dance party disaster (but fun) handmade holiday plaid?
 
-{{<bibliography>}}
+{{<bibliography style="chicago-note-bibliography">}}
