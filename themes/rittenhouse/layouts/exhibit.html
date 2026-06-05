@@ -15,17 +15,12 @@
         miradorViewer.classList.remove('disabled')
         miradorViewer.classList.add('active')
         const mirador = Mirador.viewer({
-            "id": "mirador-viewer",
-            "manifests": {
-                manifest: {
-                    "provider": "American Philosophical Society"
-                }
-            },
-            "windows": [
-                {
-                    "loadedManifest": manifest,
-                }
-            ]
+            id: "mirador-viewer",
+            windows: [{
+                allowClose: false,
+                manifestId: manifest,
+                thumbnailNavigationPosition: 'far-bottom'
+            }]
         });
     }
   </script>
