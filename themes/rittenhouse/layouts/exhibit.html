@@ -1,0 +1,34 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+  <div id="mirador-viewer" class="disabled"></div>
+  <script type="text/javascript">
+    const miradorBtns = document.querySelectorAll('.mirador-btn');
+    miradorBtns.forEach((d) => d.addEventListener("click", function (d) {
+        let manifest = this.dataset.manifest
+        launchMirador(manifest)
+    }));
+
+    function launchMirador(manifest) {
+        const miradorViewer = document.querySelector("#mirador-viewer");
+        miradorViewer.classList.remove('disabled')
+        miradorViewer.classList.add('active')
+        const mirador = Mirador.viewer({
+            "id": "mirador-viewer",
+            "manifests": {
+                manifest: {
+                    "provider": "American Philosophical Society"
+                }
+            },
+            "windows": [
+                {
+                    "loadedManifest": manifest,
+                    "canvasIndex": 2,
+                    "thumbnailNavigationPosition": "far-bottom"
+                }
+            ]
+        });
+    }
+  </script>
+{{ end }}

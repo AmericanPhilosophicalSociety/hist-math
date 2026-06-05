@@ -27,7 +27,7 @@
         <figcaption>{{ .label | safeHTML }}</figcaption>
         </figure>
         {{ if .manifest }}
-          <p><a href={{ .manifest }}>IIIF</a></p>
+          <button type="button" data-manifest={{ .manifest }} class="mirador-btn btn">Explore the doc</button>
         {{ end }}
       {{ end }}
       {{ $bibEntry := index $bib $index }}

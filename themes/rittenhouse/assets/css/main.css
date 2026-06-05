@@ -168,7 +168,7 @@ main {
 }
 
 .section-label {
-  background-color: rgb(80 141 163);
+  background-color: rgb(171, 215, 231);
   border: 0.1em solid rgb(15 15 15);
   border-radius: 0.8em;
   padding: 0 1em;
@@ -192,4 +192,12 @@ main {
   caption-side: bottom;
   background-color: rgb(245 235 206);
   padding: 0.5em 2em 1em 2em;
+}
+
+#mirador-viewer.disabled {
+  visibility: hidden;
+}
+
+#mirador-viewer.active {
+  visibility: visible;
 }
