@@ -21,15 +21,22 @@
       </div>
     </div>
     {{ with $section.objects }}
-      {{ range . }}
-        <figure class="gallery-item">
-          <img src="{{ .image }}">
-        <figcaption>{{ .label | safeHTML }}</figcaption>
-        </figure>
-        {{ if .manifest }}
-          <button type="button" data-manifest={{ .manifest }} class="mirador-btn btn">Explore the doc</button>
-        {{ end }}
+      <div class="gallery-cards">
+        {{ range . }}
+        <div class="gallery-item card mb-3">
+          <div class="row g-0">
+            <div class="col-md-4">
+              <img class="gallery-image img-fluid rounded-start" src="{{ .image }}">
+            </div>
+            <div class="col-md-8">
+              <div class="gallery-caption card-body">
+              <p class="card-text">{{ .label | safeHTML }}</p>{{ if .manifest }}<button type="button" data-manifest={{ .manifest }} class="mirador-btn btn">Explore the doc</button>
+        {{ end }}</div>
+          </div>
+        </div>
+      </div>
       {{ end }}
+      </div>
       {{ $bibEntry := index $bib $index }}
       <h3>Further reading:</h3>
       {{ $bibEntry | safeHTML }}
