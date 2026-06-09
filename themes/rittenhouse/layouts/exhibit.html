@@ -2,7 +2,10 @@
 <h1>{{ .Title }}</h1>
 
   {{ .Content }}
-  <div id="mirador-viewer" class="disabled"></div>
+  <div id="mirador-container" class="disabled">
+    <span id="close" class="cursor">&times;</span>
+    <div id="mirador-viewer"></div>
+  </div>
   <script type="text/javascript">
     const miradorBtns = document.querySelectorAll('.mirador-btn');
     miradorBtns.forEach((d) => d.addEventListener("click", function (d) {
@@ -10,8 +13,11 @@
         launchMirador(manifest)
     }));
 
+    const closeButton = document.querySelector("#close");
+    closeButton.addEventListener("click", closeMirador)
+
     function launchMirador(manifest) {
-        const miradorViewer = document.querySelector("#mirador-viewer");
+        const miradorViewer = document.querySelector("#mirador-container");
         miradorViewer.classList.remove('disabled')
         miradorViewer.classList.add('active')
         const mirador = Mirador.viewer({
@@ -22,6 +28,12 @@
                 thumbnailNavigationPosition: 'far-bottom'
             }]
         });
+    }
+
+    function closeMirador() {
+        const miradorViewer = document.querySelector("#mirador-container");
+        miradorViewer.classList.remove('active');
+        miradorViewer.classList.add('disabled');
     }
   </script>
 {{ end }}
