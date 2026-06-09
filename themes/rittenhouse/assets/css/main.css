@@ -172,7 +172,8 @@ a {
   display: flex;
   margin: 0 auto;
   background-color: rgb(245 235 206);
-  max-width: 540px;
+  height: 500px;
+  overflow: hidden;
 }
 
 .gallery-image {
