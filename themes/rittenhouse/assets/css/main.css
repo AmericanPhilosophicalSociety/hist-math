@@ -196,7 +196,7 @@ a {
   overflow: hidden;
 }
 
-@media(min-width: 576px) {
+@media(min-width: 768px) {
   .gallery-item, .gallery-text-card {
     height: 400px;
   }
