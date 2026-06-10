@@ -1,0 +1,55 @@
+{
+    "title": "A Changing Mathematical Landscape: 1920 to World War II",
+    "sections": 
+    [
+        {
+            "title": "Emmy Noether",
+            "label": "The persecution of Jewish academics by the Nazi regime in Germany caused a dramatic change in American mathematics. Over one hundred Jewish mathematicians, including some of the field’s leading minds, emigrated to the United States at this time. They established themselves at colleges and universities from coast to coast.  One of the very best, algebraist Emmy Noether, joined the Department of Mathematics at Bryn Mawr College in 1933. She was renowned as one of the guiding lights behind what would become modern algebra. Sadly, she died in 1935 following complications from surgery.",
+            "background": "noether.jpg",
+            "objects": [
+                {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582498-Service%2520File.jpg/full/full/0/default.jpg",
+                    "manifest": "https://diglib.amphilsoc.org/node/582267/manifest",
+                    "label": "Emmy Noether (1882–1935)"
+                },
+                {
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582269-Service%2520File.jpg/full/full/0/default.jpg",
+                    "manifest": "https://diglib.amphilsoc.org/node/582246/manifest",
+                    "label": "Following Noether’s death, a committee, listed in this document, was formed to establish a Noether Memorial at Bryn Mawr College. From the Florence Sabin Papers, Box 32, Folder 1."
+                },
+                {
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582285-Service%2520File.jpg/full/full/0/default.jpg",
+                    "manifest": "https://diglib.amphilsoc.org/node/582247/manifest",
+                    "label": "Fund-raising solicitation letter for the Noether Memorial Fund from Florence Sabin, noted physician and the first woman to be elected to the National Academy of Sciences, to Bryn Mawr alumna Dorothy S. Backer. From the Florence Sabin Papers, Box 32, Folder 2."
+                },
+                {
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2025-01%2F432674-Service%2520File.jpg/full/full/0/default.jpg",
+                    "manifest": "https://diglib.amphilsoc.org/node/432647/manifest",
+                    "label": "Letter to the Editor of The New York Times from Albert Einstein, May 4, 1935, in reaction to Noether’s death. From the Florence Sabin Papers, Box 32, Folder 4."
+                }
+
+            ]
+        },
+        {
+            "title": "Flourishing Mathematical Research",
+            "label": "American mathematical research flourished in the years leading up to World War II.  Great strides were made in the broad areas of topology, geometry, algebra, and analysis. Other, newer specialties like symbolic logic also emerged.  The research university became the central hub for advancing mathematical research. Although the Johns Hopkins University—followed quickly by the University of Chicago and Harvard— led in the process of this development, Princeton University joined them after 1900 and would eventually support one of the nation’s strongest departments of mathematics.",
+            "background": "post.jpg",
+            "objects": [
+                {
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_3086_OBJ/full/full/0/default.jpg",
+                    "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/graphics_3086_OBJ/manifest.json",
+                    "label": "Photograph of Emil Post (1897–1954) dated June 1924. Post was an American leader in symbolic logic most noted for his work in recursion theory. From the Post Papers, Box 8."
+                },
+                {
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582506-Service%2520File.jpg/full/full/0/default.jpg",
+                    "manifest": "https://diglib.amphilsoc.org/node/582268/manifest", 
+                    "label": "The first two pages of this typescript from 1936 describe the so-called “Post machine,” a mathematical model of computation that he developed independently of and at essentially the same time that Alan Turing developed his Turing machine."
+                },
+                {
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582426-Service%2520File.jpg/full/full/0/default.jpg",
+                    "manifest": "https://diglib.amphilsoc.org/node/582259/manifest",
+                    "label": "Members of the Princeton Department of Mathematics (early 1950s). From left to right: (first row) Albert Tucker, Emil Artin, Solomon Lefschetz, Alonzo Church, William Feller; (second row) Samuel Wilks, John Tukey, Donald Spencer, ??, Valentine Bargemann.  From the Tukey Papers, Box 1."
+                }
+            ]
+        }
+    ]
+}
