@@ -5,7 +5,7 @@
         {
             "title": "Mathematics During World War II",
             "label": "The American mathematical community began mobilizing for war well before the United States entered World War II in December 1941.  Mathematicians fashioned new programs in applied mathematics essential for improving the effectiveness of American industries.  They also developed and taught courses instructing members of the armed services in the mathematical basics of navigation and ballistics.  As active partners in the creation of both the atomic bomb and the first electronic computers, they fundamentally shaped the post-World-War-II era.",
-            "background": "magic-squares.jpg",
+            "background": "ulam.jpg",
             "objects": [
                 {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582364-Service%2520File.jpg/full/full/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582251/manifest",
@@ -32,7 +32,7 @@
         {
             "title": "Electronic Computing",
             "label": "ENIAC (Electronic Numerical Integrator and Computer), the first programmable, general purpose digital computer, was developed at the very end of World War II. This federally funded war-related initiative was a collaboration between the Ballistic Research Laboratory at the Aberdeen Proving Ground in Maryland and the University of Pennsylvania. It engaged many mathematical minds, among them, Herman Goldstine and John von Neumann. Funding for the development of electronic computers continued to flow after the war through the Office of Naval Research. Mathematician Mina Rees was tapped from her wartime post in the Applied Mathematics Panel to head the Mathematics Branch.",
-            "background": "rittenhouse-trig.jpg",
+            "background": "neumann.jpg",
             "objects": [
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582428-Service%2520File.jpg/full/full/0/default.jpg",
