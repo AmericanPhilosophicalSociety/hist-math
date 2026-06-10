@@ -1,0 +1,60 @@
+{
+    "title": "Mathematics in the New Republic to 1900",
+    "sections": 
+    [
+        {
+            "title": "Mathematics and American Science",
+            "label": "From 1776 to 1876, mathematics developed in the United States not as a specialty but as a part of American science. The lives and work of Nathaniel Bowditch and Benjamin Peirce exemplify this. The largely self-taught Bowditch, who made his living as an actuary, did fundamental work in mathematics, navigation, and astronomy. His translation of Pierre Simon de Laplace’s <i>Mécanique céleste</i> was ground-breaking and included extensive mathematical commentary. Peirce, on the other hand, was a Harvard-educated professor. He pursued research in both pure and applied mathematics during the final quarter of the nineteenth century.",
+            "background": "patterson.jpg",
+            "objects": [
+                {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582367-Service%2520File.jpg/full/full/0/default.jpg",
+                    "manifest": "https://diglib.amphilsoc.org/node/582255/manifest",
+                    "label": "Nathaniel Bowditch (1773–1838)"
+                },
+                {
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/521_L312m_v1_521_L312m_v1-002/full/full/0/default.jpg",
+                    "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/521_L312m_v1/manifest.json",
+                    "label": "Pages 322–323 of Bowditch’s translation of the <i>Mécanique céleste</i> showing an example of one of the extensive, explanatory mathematical footnotes that he added to Laplace’s notoriously terse and complex text."
+                },
+                {
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/VGN_527_B679n_VGN_527_B679n-002/full/full/0/default.jpg",
+                    "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/VGN_527_B679n/manifest.json",
+                    "label": "On gauging, that is, calculating the number of gallons, bushels, etc., a container of calculated volume will hold. From Bowditch’s <i>The New American Practical Navigator</i>."
+                },
+                {
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582472-Service%2520File.jpg/400,300,1500,1600/full/0/default.jpg",
+                    "manifest": "https://diglib.amphilsoc.org/node/582265/manifest",
+                    "label": "Benjamin Peirce (1809–1880)."
+                },
+                {
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/514_P35E_514_P35E-002/full/full/0/default.jpg",
+                    "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/514_P35E/manifest.json",
+                    "label": "The pullout on spherical trigonometry from Benjamin Peirce’s book, <i>An Elementary Treatise on Plane and Spherical Trigonometry with Their Applications to Navigation, Surveying, Heights & Distances, and Spherical Astronomy</i> (Boston: James Munroe and Company, 1840)."
+                }
+
+            ]
+        },
+        {
+            "title": "The Emergence of the Research University",
+            "label": "A community of mathematical researchers developed in the United States during the last quarter of the nineteenth century. Key to that process was the Johns Hopkins University, founded in 1876 as the nation’s first research university. Its first professor of mathematics was the English algebraist James Joseph Sylvester, who developed an innovative program for graduate research. These innovations included research seminars and an emphasis on the publication of original research.  Other colleges soon followed this example. At Yale, for example, Josiah Willard Gibbs pursued original research in mathematics, chemistry, and thermodynamics.",
+            "background": "rittenhouse-trig.jpg",
+            "objects": [
+                {
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/505_N24_505_N24-001/full/full/0/default.jpg",
+                    "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/505_N24/manifest.json",
+                    "label": "James Joseph Sylvester (1814–1897)"
+                },
+                {
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/Laws_of_Verse_Laws_of_Verse-041/full/full/0/default.jpg",
+                    "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/Laws_of_Verse/manifest.json",
+                    "label": "Sylvester’s translation of Friedrich Schiller’s “To Spring” using his pseudomathematical “laws of verse.” Note the annotation which is so typical of Sylvester’s writing."
+                },
+                {
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/531_G35w_531_G35w-005/full/full/0/default.jpg",
+                    "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/531_G35w/manifest.json",
+                    "label": "Daguerrotype taken of Josiah Willard Gibbs during his student days at Yale. From Lynde Wheeler, Everett Oyler Waters, and Samuel William Dudley, ed., <i>The Early Work of Willard Gibbs in Applied Mechanics; comprising the text of his hitherto unpublished Ph.D. thesis and accounts of his mechanical inventions</i> (New York: Henry Shuman, 1947)."
+                }
+            ]
+        }
+    ]
+}

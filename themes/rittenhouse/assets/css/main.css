@@ -198,13 +198,13 @@ a {
 }
 
 @media(min-width: 576px) {
-  .gallery-item {
+  .gallery-item, .gallery-text-card {
     height: 400px;
   }
 }
 
 @media(min-width: 992px) {
-  .gallery-item {
+  .gallery-item, .gallery-text-card {
     height: 500px;
   }
 }
@@ -216,7 +216,16 @@ a {
   object-fit: cover;
 }
 
+.gallery-text-card {
+  display: flex;
+}
 
+.gallery-caption {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: auto;
+}
 #mirador-container {
   position: fixed;
   top: 0;

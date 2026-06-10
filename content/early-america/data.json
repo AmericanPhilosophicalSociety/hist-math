@@ -12,7 +12,7 @@
                     "label": "Benjamin Franklin (1706–1790)"
                 },
                 {
-                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/050_G28_v38-001/full/full/0/default.jpg",
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/magic-square-of-squares.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/050_G28_v38-001/manifest.json",
                     "label": "Two examples of Franklin’s magic squares, both published in <i>The Gentleman’s Magazine and Historical Chronicle</i>, 38 (1768), pp. 312 and 313, resp."
                 },
@@ -40,7 +40,12 @@
                     "label": "David Rittenhouse (1732–1796)"
                 },
                 {
-                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/506_73_Am4t_v4_506_73_Am4t_v4-001/full/full/0/default.jpg",
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/Mss_B_F327_1930_Mss_B_F327_1930-002/full/full/0/default.jpg",
+                    "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve//img/derivatives/iiif/Mss_B_F327_1930/manifest.json", 
+                    "label": "Letter from Thomas Jefferson to David Rittenhouse, written on September 6, 1793, while both were living in Philadelphia.  The letter asks whether Jefferson’s daughters could use Rittenhouse’s camera obscura and includes rough calculations. From the Sol Feinstone Papers."
+                },
+                {
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/rittenhouse-logarithm.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/506_73_Am4t_v4/manifest.json",
                     "label": "Rittenhouse’s mathematical paper, “Method of Raising the Common Logarithm of Any Number Immediately,” <i>Transactions of the American Philosophical Society</i> 4 (1799), 69-71."
                 },
