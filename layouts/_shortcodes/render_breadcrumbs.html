@@ -1,0 +1,6 @@
+{{ with .Get "previous" }}
+  <a href="{{ . }}">Previous</a>
+{{ end }}
+{{ with .Get "next" }}
+  <a href="{{ . }}">Next</a>
+{{ end }}

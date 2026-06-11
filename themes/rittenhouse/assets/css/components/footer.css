@@ -1,4 +1,8 @@
 footer {
   border-top: 1px solid #222;
   margin-top: 1rem;
+  background-image: url("/images/footer-image.jpg");
+  background-color: rgb(255, 255, 255, 0.9);
+  background-blend-mode: lighten;
+  padding: 1em 0 0 0;
 }

@@ -11,7 +11,6 @@
 {{ with $data.sections }}
   {{ $len := (len .)}}
   {{ range $index, $section := . }}
-    <h2>{{ $section.title }}</h2>
       {{ $background := $section.background }}
       {{ with $.Page.Resources.Get $background }}
         <div style="background-image: url('{{ . }}');" class=section-label-container>
