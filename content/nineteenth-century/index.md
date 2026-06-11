@@ -11,4 +11,4 @@ layout = 'exhibit'
   {{<bibliography style="chicago-note-bibliography" keyword="I5V35NSN">}}
 {{< /render_json >}}
 
-{{< render_breadcrumbs previous="/early-america" next="/early-twentieth-century" >}}
+{{< render_breadcrumbs previous="/hist-math/early-america" next="/hist-math/early-twentieth-century" >}}

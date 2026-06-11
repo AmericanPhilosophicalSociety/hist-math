@@ -10,3 +10,5 @@ layout = 'exhibit'
   <--->
   {{<bibliography style="chicago-note-bibliography" keyword="EBZDLQ9F">}}
 {{< /render_json >}}
+
+{{< render_breadcrumbs previous="/hist-math/nineteenth-century" next="/hist-math/postwar" >}}

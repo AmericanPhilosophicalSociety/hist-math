@@ -270,3 +270,16 @@ main, #footer-text {
   text-decoration: none;
   cursor: pointer;
 }
+
+#prev-next {
+  display: flex;
+  flex-direction: row;
+}
+
+#prev {
+  margin-right: auto;
+}
+
+#next {
+  margin-left: auto;
+}

@@ -1,6 +1,12 @@
+<div id="prev-next">
 {{ with .Get "previous" }}
-  <a href="{{ . }}">Previous</a>
+  <div id="previous">
+    <a href="{{ . }}">Previous</a>
+  </div>
 {{ end }}
 {{ with .Get "next" }}
-  <a href="{{ . }}">Next</a>
+  <div id="next">
+    <a href="{{ . }}">Next</a>
+  </div>
 {{ end }}
+</div>
