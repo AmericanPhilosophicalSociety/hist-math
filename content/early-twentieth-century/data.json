@@ -7,7 +7,7 @@
             "label": "The persecution of Jewish academics by the Nazi regime in Germany caused a dramatic change in American mathematics. Over one hundred Jewish mathematicians, including some of the field’s leading minds, emigrated to the United States at this time. They established themselves at colleges and universities from coast to coast.  One of the very best, algebraist Emmy Noether, joined the Department of Mathematics at Bryn Mawr College in 1933. She was renowned as one of the guiding lights behind what would become modern algebra. Sadly, she died in 1935 following complications from surgery.",
             "background": "noether.jpg",
             "objects": [
-                {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582498-Service%2520File.jpg/full/full/0/default.jpg",
+                {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582498-Service%2520File.jpg/400,800,2500,2000/full/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582267/manifest",
                     "label": "Emmy Noether (1882–1935)"
                 },
@@ -35,7 +35,7 @@
             "background": "post.jpg",
             "objects": [
                 {
-                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_3086_OBJ/full/full/0/default.jpg",
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/post.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/graphics_3086_OBJ/manifest.json",
                     "label": "Photograph of Emil Post (1897–1954) dated June 1924. Post was an American leader in symbolic logic most noted for his work in recursion theory. From the Post Papers, Box 8."
                 },

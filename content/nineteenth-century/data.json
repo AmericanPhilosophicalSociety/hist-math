@@ -7,7 +7,7 @@
             "label": "From 1776 to 1876, mathematics developed in the United States not as a specialty but as a part of American science. The lives and work of Nathaniel Bowditch and Benjamin Peirce exemplify this. The largely self-taught Bowditch, who made his living as an actuary, did fundamental work in mathematics, navigation, and astronomy. His translation of Pierre Simon de Laplace’s <i>Mécanique céleste</i> was ground-breaking and included extensive mathematical commentary. Peirce, on the other hand, was a Harvard-educated professor. He pursued research in both pure and applied mathematics during the final quarter of the nineteenth century.",
             "background": "patterson.jpg",
             "objects": [
-                {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582367-Service%2520File.jpg/full/full/0/default.jpg",
+                {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582367-Service%2520File.jpg/500,1200,2000,2000/full/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582255/manifest",
                     "label": "Nathaniel Bowditch (1773–1838)"
                 },
@@ -22,12 +22,12 @@
                     "label": "On gauging, that is, calculating the number of gallons, bushels, etc., a container of calculated volume will hold. From Bowditch’s <i>The New American Practical Navigator</i>."
                 },
                 {
-                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582472-Service%2520File.jpg/400,300,1500,1600/full/0/default.jpg",
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582472-Service%2520File.jpg/500,500,1500,1600/full/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582265/manifest",
                     "label": "Benjamin Peirce (1809–1880)."
                 },
                 {
-                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/514_P35E_514_P35E-002/full/full/0/default.jpg",
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/spherical-astronomy.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/514_P35E/manifest.json",
                     "label": "The pullout on spherical trigonometry from Benjamin Peirce’s book, <i>An Elementary Treatise on Plane and Spherical Trigonometry with Their Applications to Navigation, Surveying, Heights & Distances, and Spherical Astronomy</i> (Boston: James Munroe and Company, 1840)."
                 }
@@ -40,7 +40,7 @@
             "background": "sine.jpg",
             "objects": [
                 {
-                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/505_N24_505_N24-001/full/full/0/default.jpg",
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/sylvester.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/505_N24/manifest.json",
                     "label": "James Joseph Sylvester (1814–1897)"
                 },
@@ -50,7 +50,7 @@
                     "label": "Sylvester’s translation of Friedrich Schiller’s “To Spring” using his pseudomathematical “laws of verse.” Note the annotation which is so typical of Sylvester’s writing."
                 },
                 {
-                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/531_G35w_531_G35w-005/full/full/0/default.jpg",
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/gibbs.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/531_G35w/manifest.json",
                     "label": "Daguerrotype taken of Josiah Willard Gibbs during his student days at Yale. From Lynde Wheeler, Everett Oyler Waters, and Samuel William Dudley, ed., <i>The Early Work of Willard Gibbs in Applied Mechanics; comprising the text of his hitherto unpublished Ph.D. thesis and accounts of his mechanical inventions</i> (New York: Henry Shuman, 1947)."
                 }
