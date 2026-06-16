@@ -7,22 +7,22 @@
             "label": "The American mathematical community began mobilizing for war well before the United States entered World War II in December 1941.  Mathematicians fashioned new programs in applied mathematics essential for improving the effectiveness of American industries.  They also developed and taught courses instructing members of the armed services in the mathematical basics of navigation and ballistics.  As active partners in the creation of both the atomic bomb and the first electronic computers, they fundamentally shaped the post-World-War-II era.",
             "background": "ulam.jpg",
             "objects": [
-                {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582364-Service%2520File.jpg/full/full/0/default.jpg",
+                {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582364-Service%2520File.jpg/full/1140,/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582251/manifest",
                     "label": "President John F. Kennedy shaking hands with Stanislaw Ulam.  Ulam, a Polish-Jewish emigré, had secured a job at the University of Wisconsin in Madison before becoming a key member of the group working on the atomic bomb at Los Alamos. From the Ulam Papers, Series XIII, Box 1."
                 },
                 {
-                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582362-Service%2520File.jpg/full/full/0/default.jpg",
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582362-Service%2520File.jpg/full/1140,/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582250/manifest",
                     "label": "The Trinity (Alamogordo) atomic bomb test, July 16, 1945. From the Ulam Papers, Series XIII, Box 1."
                 },
                 {
-                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582349-Service%2520File.jpg/full/full/0/default.jpg",
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582349-Service%2520File.jpg/full/1140,/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582249/manifest",
                     "label": "Security handbook issued to members of the Los Alamos team of scientists.  From the Ulam Papers, Series XII-2."
                 },
                 {
-                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-06%2F597650-Service%2520File.jpg/full/full/0/default.jpg",
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-06%2F597650-Service%2520File.jpg/full/1140,/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/597649/manifest",
                     "label": "Ulam’s handwritten draft of his paper “On the Monte Carlo Method.”  This method was first conceived at Los Alamos in 1946. It was initially used to calculate neutron diffusion paths for the hydrogen bomb.  It hinges on repeated random sampling to solve complex problems. From the Ulam Papers, Series IX, Box 7."
                 }
@@ -35,27 +35,27 @@
             "background": "neumann.jpg",
             "objects": [
                 {
-                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582428-Service%2520File.jpg/full/full/0/default.jpg",
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582428-Service%2520File.jpg/full/1140,/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582261/manifest",
                     "label": "American mathematician, Mina Rees (1902–1997), was instrumental during and immediately after World War II in allocating Federal funding for basic scientific research.  The examples she set informed the National Science Foundation after its founding in 1950. From the Piore Papers, Series V, Box 5."
                 },
                 {
-                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582366-Service%2520File.jpg/full/full/0/default.jpg",
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582366-Service%2520File.jpg/full/1140,/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582252/manifest", 
                     "label": "Photograph of the Electronic Numerical Integrator and Computer (ENIAC), the first programmable,  general purpose digital computer. From the Ulam Papers, Series XIII, Box 1."
                 },
                 {
-                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582369-Service%2520File.jpg/full/full/0/default.jpg",
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582369-Service%2520File.jpg/full/1140,/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582256/manifest", 
                     "label": "Two-page letter from Mina Rees to Herman Goldstine dated June 30, 1947. This letter shows how engaged Rees was with the scientific projects she was asked to fund."
                 },
                 {
-                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582372-Service%2520File.jpg/full/full/0/default.jpg",
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582372-Service%2520File.jpg/full/1140,/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582256/manifest",
                     "label": "Two-page reply from Goldstine to Rees dated July 2, 1947. This letter demonstrates a collaborative relationship between scientist and funder. From the Goldstine Papers, Series I, Box 6."
                 },
                 {
-                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/Mss_Ms_Coll_19_oppenheimer-001/full/full/0/default.jpg",
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/Mss_Ms_Coll_19_oppenheimer-001/full/1140,/0/default.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/Mss_Ms_Coll_19_oppenheimer-001/manifest.json",
                     "label": "Photograph of Robert Oppenheimer and John von Neumann standing in front of the “rival” computing machine. This machine was developed at the Institute for Advanced Study in Princeton.  From the Goldstine Papers, Series IV, Box 69."
                 }

@@ -7,7 +7,7 @@
             "label": "Benjamin Franklin (1706–1790) embraced mathematics in a playful yet ingenious way. His magic squares featured two defining characteristics. Not only did the rows and columns add up to the same sum, but so did various broken diagonals and symmetrically arranged subsets. This work blended recreation and philosophical exercise, showing how numerical harmony could mirror rational order in nature. The wide circulation of his magic squares represented a small but distinctive contribution to colonial mathematics.",
             "background": "magic-squares.jpg",
             "objects": [
-                {   "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_4572_OBJ/full/full/0/default.jpg",
+                {   "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_4572_OBJ/full/1140,/0/default.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/graphics_4572_OBJ/manifest.json",
                     "label": "Benjamin Franklin, portrayed in a Charles Willson Peale copy of a portrait by Scottish artist David Martin (1772)."
                 },
@@ -17,12 +17,12 @@
                     "label": "Two examples of Franklin’s magic squares, both published in <i>The Gentleman’s Magazine and Historical Chronicle</i>, 38 (1768), pp. 312 and 313, resp."
                 },
                 {
-                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_4606_OBJ/full/full/0/default.jpg",
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_4606_OBJ/full/1140,/0/default.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/graphics_4606_OBJ/manifest.json",
                     "label": "A manuscript drawing and description of a circularly arranged magic square. From the Franklin Papers, Box 96."
                 },
                 {
-                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582425-Service%2520File.jpg/full/full/0/default.jpg",
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582425-Service%2520File.jpg/full/1140,/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582257/manifest",
                     "label": "A fragment of a letter [1752] from Franklin to English botanist, Peter Collinson, describing a circular magic square. From the Franklin Papers, Box 96."
                 }
@@ -35,12 +35,12 @@
             "background": "rittenhouse-trig.jpg",
             "objects": [
                 {
-                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_4634_OBJ/full/full/0/default.jpg",
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_4634_OBJ/full/1140,/0/default.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/graphics_4634_OBJ/manifest.json",
                     "label": "David Rittenhouse in a portrait by Charles Willson Peale. The work, which was painted to mark Rittenhouse's election as the president of the American Philosophical Society in 1791, emphasizes Rittenhouse's talents as an astronomer. He is portrayed sketching a comet he observed in 1770."
                 },
                 {
-                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/Mss_B_F327_1930_Mss_B_F327_1930-002/full/full/0/default.jpg",
+                    "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/Mss_B_F327_1930_Mss_B_F327_1930-002/full/1140,/0/default.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve//img/derivatives/iiif/Mss_B_F327_1930/manifest.json", 
                     "label": "Letter from Thomas Jefferson to David Rittenhouse, written on September 6, 1793, while both were living in Philadelphia.  The letter asks whether Jefferson’s daughters could use Rittenhouse’s camera obscura and includes rough calculations. From the Sol Feinstone Papers."
                 },
@@ -50,7 +50,7 @@
                     "label": "Rittenhouse’s mathematical paper, “Method of Raising the Common Logarithm of Any Number Immediately,” <i>Transactions of the American Philosophical Society</i> 4 (1799), 69-71."
                 },
                 {
-                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582436-Service%2520File.jpg/500,200,3200,3200/full/0/default.jpg",
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582436-Service%2520File.jpg/500,200,3200,3200/1140,/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582263/manifest",
                     "label": "Astronomical predictions for January 1777 of David Rittenhouse’s <i>The Universal Almanack, for the Year of Our Lord 1777</i> (Philadelphia: James Humphreys, Jun., 1777)."
                 }
