@@ -1,15 +1,15 @@
 {
-    "title": "A Changing Mathematical Landscape: 1920 to World War II",
+    "title": "A Changing Mathematical Landscape: 1900 to World War II",
     "sections": 
     [
         {
             "title": "Emmy Noether",
-            "label": "The persecution of Jewish academics by the Nazi regime in Germany caused a dramatic change in American mathematics. Over one hundred Jewish mathematicians, including some of the field’s leading minds, emigrated to the United States at this time. They established themselves at colleges and universities from coast to coast.  One of the very best, algebraist Emmy Noether, joined the Department of Mathematics at Bryn Mawr College in 1933. She was renowned as one of the guiding lights behind what would become modern algebra. Sadly, she died in 1935 following complications from surgery.",
+            "label": "The persecution of Jewish academics by the Nazi regime in Germany caused a dramatic change in American mathematics. Over one hundred Jewish mathematicians, including some of the field’s leading minds, emigrated to the United States at this time. They established themselves at colleges and universities from coast to coast.  One of the very best, algebraist Emmy Noether (1882–1935), joined the Department of Mathematics at Bryn Mawr College in 1933. She was renowned as one of the guiding lights behind what would become modern algebra. Sadly, she died in 1935 following complications from surgery.",
             "background": "noether.jpg",
             "objects": [
                 {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582498-Service%2520File.jpg/400,800,2500,2000/full/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582267/manifest",
-                    "label": "Emmy Noether (1882–1935)"
+                    "label": "Emmy Noether in a photograph from around 1930. Attributed to Hennig Nolte, it was reproduced in Hermann Weyl and Albert Einstein, <i>In Memory of Emmy Noether, Visiting Professor of Mathematics, Bryn Mawr College, 1922—April 1935</i> (undated)."
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582269-Service%2520File.jpg/full/full/0/default.jpg",

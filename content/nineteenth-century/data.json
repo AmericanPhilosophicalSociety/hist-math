@@ -4,12 +4,12 @@
     [
         {
             "title": "Mathematics and American Science",
-            "label": "From 1776 to 1876, mathematics developed in the United States not as a specialty but as a part of American science. The lives and work of Nathaniel Bowditch and Benjamin Peirce exemplify this. The largely self-taught Bowditch, who made his living as an actuary, did fundamental work in mathematics, navigation, and astronomy. His translation of Pierre Simon de Laplace’s <i>Mécanique céleste</i> was ground-breaking and included extensive mathematical commentary. Peirce, on the other hand, was a Harvard-educated professor. He pursued research in both pure and applied mathematics during the final quarter of the nineteenth century.",
+            "label": "From 1776 to 1876, mathematics developed in the United States not as a specialty but as a part of American science. The lives and work of Nathaniel Bowditch (1773–1838) and Benjamin Peirce (1809–1880) exemplify this. The largely self-taught Bowditch, who made his living as an actuary, did fundamental work in mathematics, navigation, and astronomy. His translation of Pierre Simon de Laplace’s <i>Mécanique céleste</i> was ground-breaking and included extensive mathematical commentary. Peirce, on the other hand, was a Harvard-educated professor. He pursued research in both pure and applied mathematics during the final quarter of the nineteenth century.",
             "background": "patterson.jpg",
             "objects": [
                 {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582367-Service%2520File.jpg/500,1200,2000,2000/full/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582255/manifest",
-                    "label": "Nathaniel Bowditch (1773–1838)"
+                    "label": "Nathaniel Bowditch, portrayed in an engraving engraved by J. Gross and drawn by J. B. Longacre (undated)."
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/521_L312m_v1_521_L312m_v1-002/full/full/0/default.jpg",
@@ -24,7 +24,7 @@
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582472-Service%2520File.jpg/500,500,1500,1600/full/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582265/manifest",
-                    "label": "Benjamin Peirce (1809–1880)."
+                    "label": "Reproduction of a daguerreotype of Benjamin Peirce (ca. 1845). Reproduced in Raymond Clare Archibald, <i>Benjamin Peirce 1809—1880: Biographical Sketch and Bibliography</i> (Oberlin, OH: The Mathematical Association of America, 1925)."
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/spherical-astronomy.jpg",
@@ -36,13 +36,13 @@
         },
         {
             "title": "The Emergence of the Research University",
-            "label": "A community of mathematical researchers developed in the United States during the last quarter of the nineteenth century. Key to that process was the Johns Hopkins University, founded in 1876 as the nation’s first research university. Its first professor of mathematics was the English algebraist James Joseph Sylvester, who developed an innovative program for graduate research. These innovations included research seminars and an emphasis on the publication of original research.  Other colleges soon followed this example. At Yale, for example, Josiah Willard Gibbs pursued original research in mathematics, chemistry, and thermodynamics.",
+            "label": "A community of mathematical researchers developed in the United States during the last quarter of the nineteenth century. Key to that process was the Johns Hopkins University, founded in 1876 as the nation’s first research university. Its first professor of mathematics was the English algebraist James Joseph Sylvester (1814–1897), who developed an innovative program for graduate research. These innovations included research seminars and an emphasis on the publication of original research.  Other colleges soon followed this example. At Yale, for example, Josiah Willard Gibbs (1839–1903) pursued original research in mathematics, chemistry, and thermodynamics.",
             "background": "sine.jpg",
             "objects": [
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/sylvester.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/505_N24/manifest.json",
-                    "label": "James Joseph Sylvester (1814–1897)"
+                    "label": "James Joseph Sylvester, in an engraving performed by G. J. Stodart after a photograph by the photography studio J. Stilliard &amp; Co. The image was reproduced in the January 3, 1889 issue of <i>Nature</i> to accompany an article celebrating Sylvester's scientific achievements."
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/Laws_of_Verse_Laws_of_Verse-041/full/full/0/default.jpg",

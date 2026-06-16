@@ -4,12 +4,12 @@
     [
         {
             "title": "Benjamin Franklin",
-            "label": "Benjamin Franklin embraced mathematics in a playful yet ingenious way. His magic squares featured two defining characteristics. Not only did the rows and columns add up to the same sum, but so did various broken diagonals and symmetrically arranged subsets. This work blended recreation and philosophical exercise, showing how numerical harmony could mirror rational order in nature. The wide circulation of his magic squares represented a small but distinctive contribution to colonial mathematics.",
+            "label": "Benjamin Franklin (1706–1790) embraced mathematics in a playful yet ingenious way. His magic squares featured two defining characteristics. Not only did the rows and columns add up to the same sum, but so did various broken diagonals and symmetrically arranged subsets. This work blended recreation and philosophical exercise, showing how numerical harmony could mirror rational order in nature. The wide circulation of his magic squares represented a small but distinctive contribution to colonial mathematics.",
             "background": "magic-squares.jpg",
             "objects": [
                 {   "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_4572_OBJ/full/full/0/default.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/graphics_4572_OBJ/manifest.json",
-                    "label": "Benjamin Franklin (1706–1790)"
+                    "label": "Benjamin Franklin, portrayed in a Charles Willson Peale copy of a portrait by Scottish artist David Martin (1772)."
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/magic-square-of-squares.jpg",
@@ -31,13 +31,13 @@
         },
         {
             "title": "David Rittenhouse",
-            "label": "David Rittenhouse, by contrast, used mathematics fundamentally in his work. A self-taught Philadelphia clockmaker, astronomer, and statesman, he constructed some of the most mathematically precise instruments in early America and compiled almanacs. His observations of the 1769 Transit of Venus–used to help calculate the average distance from the Earth to the Sun–made him one of the first Americans to win international recognition for his scientific achievements. Rittenhouse’s work is typical of eighteenth-century colonial mathematics in that it is rooted in practical scientific needs.",
+            "label": "David Rittenhouse in a portrait by Charles Willson Peale (1791).",
             "background": "rittenhouse-trig.jpg",
             "objects": [
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_4634_OBJ/full/full/0/default.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/graphics_4634_OBJ/manifest.json",
-                    "label": "David Rittenhouse (1732–1796)"
+                    "label": "David Rittenhouse in a portrait by Charles Willson Peale. The work, which was painted to mark Rittenhouse's election as the president of the American Philosophical Society in 1791, emphasizes Rittenhouse's talents as an astronomer. He is portrayed sketching a comet he observed in 1770."
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/Mss_B_F327_1930_Mss_B_F327_1930-002/full/full/0/default.jpg",
