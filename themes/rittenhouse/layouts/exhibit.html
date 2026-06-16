@@ -10,13 +10,14 @@
     const miradorBtns = document.querySelectorAll('.mirador-btn');
     miradorBtns.forEach((d) => d.addEventListener("click", function (d) {
         let manifest = this.dataset.manifest
-        launchMirador(manifest)
+        let canvas = this.dataset.canvas
+        launchMirador(manifest, canvas)
     }));
 
     const closeButton = document.querySelector("#close");
     closeButton.addEventListener("click", closeMirador)
 
-    function launchMirador(manifest) {
+    function launchMirador(manifest, canvas) {
         const miradorViewer = document.querySelector("#mirador-container");
         miradorViewer.classList.remove('disabled')
         miradorViewer.classList.add('active')
@@ -25,7 +26,8 @@
             windows: [{
                 allowClose: false,
                 manifestId: manifest,
-                thumbnailNavigationPosition: 'far-bottom'
+                thumbnailNavigationPosition: 'far-bottom',
+                canvasIndex: canvas
             }]
         });
     }

@@ -9,27 +9,32 @@
             "objects": [
                 {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582367-Service%2520File.jpg/500,1200,2000,2000/1140,/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582255/manifest",
-                    "label": "Nathaniel Bowditch, portrayed in an engraving engraved by J. Gross and drawn by J. B. Longacre (undated)."
+                    "label": "Nathaniel Bowditch, portrayed in an engraving engraved by J. Gross and drawn by J. B. Longacre (undated).",
+                    "canvas": 0
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/521_L312m_v1_521_L312m_v1-002/full/1140,/0/default.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/521_L312m_v1/manifest.json",
-                    "label": "Pages 322–323 of Bowditch’s translation of the <i>Mécanique céleste</i> showing an example of one of the extensive, explanatory mathematical footnotes that he added to Laplace’s notoriously terse and complex text."
+                    "label": "Pages 322–323 of Bowditch’s translation of the <i>Mécanique céleste</i> showing an example of one of the extensive, explanatory mathematical footnotes that he added to Laplace’s notoriously terse and complex text.",
+                    "canvas": 1
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/VGN_527_B679n_VGN_527_B679n-002/full/1140,/0/default.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/VGN_527_B679n/manifest.json",
-                    "label": "On gauging, that is, calculating the number of gallons, bushels, etc., a container of calculated volume will hold. From Bowditch’s <i>The New American Practical Navigator</i>."
+                    "label": "On gauging, that is, calculating the number of gallons, bushels, etc., a container of calculated volume will hold. From Bowditch’s <i>The New American Practical Navigator</i>.",
+                    "canvas": 1
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582472-Service%2520File.jpg/500,500,1500,1600/1140,/0/default.jpg",
                     "manifest": "https://diglib.amphilsoc.org/node/582265/manifest",
-                    "label": "Reproduction of a daguerreotype of Benjamin Peirce (ca. 1845). Reproduced in Raymond Clare Archibald, <i>Benjamin Peirce 1809—1880: Biographical Sketch and Bibliography</i> (Oberlin, OH: The Mathematical Association of America, 1925)."
+                    "label": "Reproduction of a daguerreotype of Benjamin Peirce (ca. 1845). Reproduced in Raymond Clare Archibald, <i>Benjamin Peirce 1809—1880: Biographical Sketch and Bibliography</i> (Oberlin, OH: The Mathematical Association of America, 1925).",
+                    "canvas": 5
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/spherical-astronomy.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/514_P35E/manifest.json",
-                    "label": "The pullout on spherical trigonometry from Benjamin Peirce’s book, <i>An Elementary Treatise on Plane and Spherical Trigonometry with Their Applications to Navigation, Surveying, Heights & Distances, and Spherical Astronomy</i> (Boston: James Munroe and Company, 1840)."
+                    "label": "The pullout on spherical trigonometry from Benjamin Peirce’s book, <i>An Elementary Treatise on Plane and Spherical Trigonometry with Their Applications to Navigation, Surveying, Heights & Distances, and Spherical Astronomy</i> (Boston: James Munroe and Company, 1840).",
+                    "canvas": 1
                 }
 
             ]
@@ -42,17 +47,20 @@
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/sylvester.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/505_N24/manifest.json",
-                    "label": "James Joseph Sylvester, in an engraving performed by G. J. Stodart after a photograph by the photography studio J. Stilliard &amp; Co. The image was reproduced in the January 3, 1889 issue of <i>Nature</i> to accompany an article celebrating Sylvester's scientific achievements."
+                    "label": "James Joseph Sylvester, in an engraving performed by G. J. Stodart after a photograph by the photography studio J. Stilliard &amp; Co. The image was reproduced in the January 3, 1889 issue of <i>Nature</i> to accompany an article celebrating Sylvester's scientific achievements.",
+                    "canvas": 0
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/Laws_of_Verse_Laws_of_Verse-041/full/1140,/0/default.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/Laws_of_Verse/manifest.json",
-                    "label": "Sylvester’s translation of Friedrich Schiller’s “To Spring” using his pseudomathematical “laws of verse.” Note the annotation which is so typical of Sylvester’s writing."
+                    "label": "Sylvester’s translation of Friedrich Schiller’s “To Spring” using his pseudomathematical “laws of verse.” Note the annotation which is so typical of Sylvester’s writing.",
+                    "canvas": 40
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/gibbs.jpg",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/531_G35w/manifest.json",
-                    "label": "Daguerrotype taken of Josiah Willard Gibbs during his student days at Yale. From Lynde Wheeler, Everett Oyler Waters, and Samuel William Dudley, ed., <i>The Early Work of Willard Gibbs in Applied Mechanics; comprising the text of his hitherto unpublished Ph.D. thesis and accounts of his mechanical inventions</i> (New York: Henry Shuman, 1947)."
+                    "label": "Daguerrotype taken of Josiah Willard Gibbs during his student days at Yale. From Lynde Wheeler, Everett Oyler Waters, and Samuel William Dudley, ed., <i>The Early Work of Willard Gibbs in Applied Mechanics; comprising the text of his hitherto unpublished Ph.D. thesis and accounts of his mechanical inventions</i> (New York: Henry Shuman, 1947).",
+                    "canvas": 4
                 }
             ]
         }
