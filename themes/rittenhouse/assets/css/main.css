@@ -1,11 +1,17 @@
 @import "components/header.css";
 @import "components/footer.css";
 
+html, body {
+  height: 100%
+}
+
 body {
   color: #222;
   font-family: "Poppins", sans-serif;
   line-height: 1.5;
   margin: 0px;
+  display: flex;
+  flex-direction: column;
 }
 
 a {
@@ -17,8 +23,16 @@ a {
   text-align: justify;
 }
 
+#main-content {
+  flex: 1 0 auto;
+}
+
+footer {
+  flex-shrink: 0;
+}
+
 main, #footer-text {
-  padding: 1em;
+  max-width: 350px;
 }
 
 @media (min-width: 576px) {
@@ -196,7 +210,7 @@ main, #footer-text {
 .gallery-item {
   display: flex;
   margin: 0 auto;
-  background-color: rgb(245 235 206);
+  background-color: rgb(247, 174, 134, 0.6);
   overflow: hidden;
 }
 
@@ -282,4 +296,8 @@ main, #footer-text {
 
 #next {
   margin-left: auto;
+}
+
+.csl-entry {
+  word-wrap: break-word;
 }
