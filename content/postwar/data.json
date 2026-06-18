@@ -8,24 +8,28 @@
             "background": "ulam.jpg",
             "objects": [
                 {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582364-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A black and white photograph of John F. Kennedy shaking hands with Stanislaw Ulam. Ulam stands in front of a group of other men, all of them dressed in suits.",
                     "manifest": "https://diglib.amphilsoc.org/node/582251/manifest",
                     "label": "President John F. Kennedy shaking hands with Stanislaw Ulam.  Ulam, a Polish-Jewish emigré, had secured a job at the University of Wisconsin in Madison before becoming a key member of the group working on the atomic bomb at Los Alamos. From the Ulam Papers, Series XIII, Box 1.",
                     "canvas": 0
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582362-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A black and white photograph of a mushroom cloud just starting to form after the detonation of an atomic bomb.",
                     "manifest": "https://diglib.amphilsoc.org/node/582250/manifest",
                     "label": "The Trinity (Alamogordo) atomic bomb test, July 16, 1945. From the Ulam Papers, Series XIII, Box 1.",
                     "canvas": 0
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582349-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "The front cover of a security handbook. The title, \"Security Handbook\", is written in all caps in a bureaucratic sans-serif font. At the top and the bottom, prominently displayed, is the word \"Restricted\".",
                     "manifest": "https://diglib.amphilsoc.org/node/582249/manifest",
                     "label": "Security handbook issued to members of the Los Alamos team of scientists.  From the Ulam Papers, Series XII-2.",
                     "canvas": 0
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-06%2F597650-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A messy handwritten draft of a mathematical paper in blue ink. There are emendations in red ink.",
                     "manifest": "https://diglib.amphilsoc.org/node/597649/manifest",
                     "label": "Ulam’s handwritten draft of his paper “On the Monte Carlo Method.”  This method was first conceived at Los Alamos in 1946. It was initially used to calculate neutron diffusion paths for the hydrogen bomb.  It hinges on repeated random sampling to solve complex problems. From the Ulam Papers, Series IX, Box 7.",
                     "canvas": 0
@@ -40,30 +44,35 @@
             "objects": [
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582428-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A black and white photo of a woman seated at a desk writing in a long-sleeved outfit. The outfit has richly embroidered pcokets on her chest with elaborate white streams of fabric leading to her shoulders. She has relatively short dark hair.",
                     "manifest": "https://diglib.amphilsoc.org/node/582261/manifest",
                     "label": "American mathematician, Mina Rees (1902–1997), was instrumental during and immediately after World War II in allocating Federal funding for basic scientific research.  The examples she set informed the National Science Foundation after its founding in 1950. From the Piore Papers, Series V, Box 5.",
                     "canvas": 0
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582366-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A black and white photograph of men at work reprogramming the ENIAC. They are standing in front of consoles, rearranging the tubes.",
                     "manifest": "https://diglib.amphilsoc.org/node/582252/manifest", 
                     "label": "Photograph of the Electronic Numerical Integrator and Computer (ENIAC), the first programmable,  general purpose digital computer. From the Ulam Papers, Series XIII, Box 1.",
                     "canvas": 0
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582370-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A typewritten letter addressed \"Dear Herman\" on letterhead from the Office of Naval Research.",
                     "manifest": "https://diglib.amphilsoc.org/node/582256/manifest", 
                     "label": "Two-page letter from Mina Rees to Herman Goldstine dated June 2, 1947. This letter shows how engaged Rees was with the scientific projects she was asked to fund.",
                     "canvas": 1
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582372-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A typewritten letter on plain, slightly damaged paper addressed \"Dear Mina\".",
                     "manifest": "https://diglib.amphilsoc.org/node/582256/manifest",
                     "label": "Two-page reply from Goldstine to Rees dated July 2, 1947. This letter demonstrates a collaborative relationship between scientist and funder. From the Goldstine Papers, Series I, Box 6.",
                     "canvas": 3
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/Mss_Ms_Coll_19_oppenheimer-001/full/1140,/0/default.jpg",
+                    "alt": "Two men in suits standing in front of an early computer. The computer takes up the entire wall behind them and consists of a series of large tubes at the bottom and exposed circuits above.",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/Mss_Ms_Coll_19_oppenheimer-001/manifest.json",
                     "label": "Photograph of Robert Oppenheimer (on the right) and John von Neumann standing in front of the “rival” computing machine. This machine was developed at the Institute for Advanced Study in Princeton.  From the Goldstine Papers, Series IV, Box 69.",
                     "canvas": 0

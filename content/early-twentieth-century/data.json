@@ -8,24 +8,28 @@
             "background": "noether.jpg",
             "objects": [
                 {   "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582498-Service%2520File.jpg/400,800,2500,2000/1140,/0/default.jpg",
+                    "alt": "A black and white photograph of Emmy Noether. She has wire-rimmed glsases, pulled-back dark hair, and is wearing a simple black outfit with white lace around part of the collar.",
                     "manifest": "https://diglib.amphilsoc.org/node/582267/manifest",
                     "label": "Emmy Noether in a photograph from around 1930. Attributed to Hennig Nolte, it was reproduced in Hermann Weyl and Albert Einstein, <i>In Memory of Emmy Noether, Visiting Professor of Mathematics, Bryn Mawr College, 1922—April 1935</i> (undated).",
                     "canvas": 5
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582269-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A list of names of supporters of the Emmy Noether Memorial Fund. All of the supporters are women, though many are identified by their husband's name.",
                     "manifest": "https://diglib.amphilsoc.org/node/582246/manifest",
                     "label": "Following Noether’s death, a committee, listed in this document, was formed to establish a Noether Memorial at Bryn Mawr College. From the Florence Sabin Papers, Box 32, Folder 1.",
                     "canvas": 0
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582285-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A handwritten letter on letterhead from The Carlyle in New York addressed to \"Dr. Sabin\"",
                     "manifest": "https://diglib.amphilsoc.org/node/582247/manifest",
                     "label": "Fund-raising solicitation letter for the Noether Memorial Fund from Florence Sabin, noted physician and the first woman to be elected to the National Academy of Sciences, to Bryn Mawr alumna Dorothy S. Backer. From the Florence Sabin Papers, Box 32, Folder 2.",
                     "canvas": 0
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2025-01%2F432674-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A typewritten letter on plain, slightly yellowed paper.",
                     "manifest": "https://diglib.amphilsoc.org/node/432647/manifest",
                     "label": "Letter to the Editor of The New York Times from Albert Einstein, May 4, 1935, in reaction to Noether’s death. From the Florence Sabin Papers, Box 32, Folder 4.",
                     "canvas": 0
@@ -40,18 +44,21 @@
             "objects": [
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/post.jpg",
+                    "alt": "A black and white photograph of Emil Post. He faces the camera in a three-quarters perspective. His hair is dark and slicked back to the side. He is wearing a suit and tie.",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/graphics_3086_OBJ/manifest.json",
                     "label": "Photograph of Emil Post (1897–1954) dated June 1924. Post was an American leader in symbolic logic most noted for his work in recursion theory. From the Post Papers, Box 8.",
                     "canvas": 0
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582506-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A deeply yellowed typewritten draft of a mathematical paper.",
                     "manifest": "https://diglib.amphilsoc.org/node/582268/manifest", 
                     "label": "The first two pages of this typescript from 1936 describe the so-called “Post machine,” a mathematical model of computation that he developed independently of and at essentially the same time that Alan Turing developed his Turing machine.",
                     "canvas": 0
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582426-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A black and white formal portrait of ten men in two rows. The first row is seated and the second row stands immediately behind them. All are dressed in a suit and tie.",
                     "manifest": "https://diglib.amphilsoc.org/node/582259/manifest",
                     "label": "Members of the Princeton Department of Mathematics (early 1950s). From left to right: (first row) Albert Tucker, Emil Artin, Solomon Lefschetz, Alonzo Church, William Feller; (second row) Samuel Wilks, John Tukey, Donald Spencer, ??, Valentine Bargemann.  From the Tukey Papers, Box 1.",
                     "canvas": 0
