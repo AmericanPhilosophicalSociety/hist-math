@@ -197,7 +197,7 @@ main, #footer-text {
 }
 
 .section-label {
-  background-color: rgba(219, 194, 252);
+  background-color: #efdcfc;
   border: 0.1em solid rgb(15 15 15);
   border-radius: 0.8em;
   padding: 0 1em;
@@ -210,7 +210,7 @@ main, #footer-text {
 .gallery-item {
   display: flex;
   margin: 0 auto;
-  background-color: rgba(219, 194, 252, 0.5);
+  background-color: #efdcfc;
   overflow: hidden;
 }
 
