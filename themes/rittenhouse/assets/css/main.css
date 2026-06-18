@@ -210,7 +210,7 @@ main, #footer-text {
 .gallery-item {
   display: flex;
   margin: 0 auto;
-  background-color: rgba(219, 194, 252, 0.308);
+  background-color: rgba(219, 194, 252, 0.5);
   overflow: hidden;
 }
 
