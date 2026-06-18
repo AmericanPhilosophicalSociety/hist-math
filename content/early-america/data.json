@@ -8,24 +8,28 @@
             "background": "magic-squares.jpg",
             "objects": [
                 {   "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_4572_OBJ/full/1140,/0/default.jpg",
+                    "alt": "An oil on canvas portrait of Benjamin Franklin, seated reading a manuscript document with his thumb balanced beneath his chin.",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/graphics_4572_OBJ/manifest.json",
                     "label": "Benjamin Franklin, portrayed in a Charles Willson Peale copy of a portrait by Scottish artist David Martin (1772).",
                     "canvas": 0
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/magic-square-of-squares.jpg",
+                    "alt": "A printed page displaying a complex mathematical diagram of numbers arranged in rows. On top of the numbers, there are diagonal lines that cut through the boxes formed by the rows.",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/050_G28_v38-001/manifest.json",
                     "label": "Two examples of Franklin’s magic squares, both published in <i>The Gentleman’s Magazine and Historical Chronicle</i>, 38 (1768), pp. 312 and 313, resp.",
                     "canvas": 0
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_4606_OBJ/full/1140,/0/default.jpg",
+                    "alt": "A manuscript page showing a circle composed of various rows in a semi-spiral pattern. The rows are cut up by diagonal lines, and each resulting box contains a number.",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/graphics_4606_OBJ/manifest.json",
                     "label": "A manuscript drawing and description of a circularly arranged magic square. From the Franklin Papers, Box 96.",
                     "canvas": 0
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582425-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A badly damaged manuscript letter written in iron-gall ink. The letter lacks an addressee or a signature and outlines how to create a magic square in a circular arrangement.",
                     "manifest": "https://diglib.amphilsoc.org/node/582257/manifest",
                     "label": "A fragment of a letter [1752] from Franklin to English botanist, Peter Collinson, describing a circular magic square. From the Franklin Papers, Box 96.",
                     "canvas": 0
@@ -40,24 +44,28 @@
             "objects": [
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/graphics_4634_OBJ/full/1140,/0/default.jpg",
+                    "alt": "An oil on canvas painting of a pale white man with long white hair in rich 18th century dress. He looks at the viewe directly in a three-quarters portrait.",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/graphics_4634_OBJ/manifest.json",
                     "label": "David Rittenhouse in a portrait by Charles Willson Peale (1791).",
                     "canvas": 0
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/images/Mss_B_F327_1930_Mss_B_F327_1930-002/full/1140,/0/default.jpg",
+                    "alt": "Outside portion of a letter featuring the addressee's name. The letter was later used as scratch paper and the original material has been almost completely overwritten with calculations.",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve//img/derivatives/iiif/Mss_B_F327_1930/manifest.json", 
                     "label": "Letter from Thomas Jefferson to David Rittenhouse, written on September 6, 1793, while both were living in Philadelphia.  The letter asks whether Jefferson’s daughters could use Rittenhouse’s camera obscura and includes rough calculations. From the Sol Feinstone Papers.",
                     "canvas": 1
                 },
                 {
                     "image": "https://americanphilosophicalsociety.github.io/math-imgserve/img/cropped/rittenhouse-logarithm.jpg",
+                    "alt": "A printed page that features the end of one essay and the start of another. Although the paper quality is high, some bleedthrough from the other page is visible.",
                     "manifest": "https://americanphilosophicalsociety.github.io/math-imgserve/img/derivatives/iiif/506_73_Am4t_v4/manifest.json",
                     "label": "Rittenhouse’s mathematical paper, “Method of Raising the Common Logarithm of Any Number Immediately,” <i>Transactions of the American Philosophical Society</i> 4 (1799), 69-71.",
                     "canvas": 0
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582436-Service%2520File.jpg/500,200,3200,3200/1140,/0/default.jpg",
+                    "alt": "A table showing the predictions of astronomical bodies for the month of January. The table features both numbers and symbols representing different stars.",
                     "manifest": "https://diglib.amphilsoc.org/node/582263/manifest",
                     "label": "Astronomical predictions from January 1777 of David Rittenhouse’s <i>The Universal Almanack, for the Year of Our Lord 1777</i> (Philadelphia: James Humphreys, Jun., 1777).",
                     "canvas": 6
