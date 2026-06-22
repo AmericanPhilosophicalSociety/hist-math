@@ -13,6 +13,7 @@
   {{ range $index, $section := . }}
       {{ $background := $section.background }}
       {{ with $.Page.Resources.Get $background }}
+      <section>
         <div style="background-image: url('{{ . }}');" class=section-label-container>
       {{ end }}
       <div class="section-label">
@@ -39,6 +40,7 @@
       {{ $bibEntry := index $bib $index }}
       <h3>Further reading:</h3>
       {{ $bibEntry | safeHTML }}
+      </section>
       {{ if ne (add $index 1) $len }}
        <hr>
       {{ end }}
