@@ -21,11 +21,11 @@
                     "canvas": 0
                 },
                 {
-                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582285-Service%2520File.jpg/full/1140,/0/default.jpg",
-                    "alt": "A handwritten letter on letterhead from The Carlyle in New York addressed to \"Dr. Sabin\"",
+                    "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2026-05%2F582287-Service%2520File.jpg/full/1140,/0/default.jpg",
+                    "alt": "A typewritten letter to \"My dear Mrs. Backer\" on yellowed paper.",
                     "manifest": "https://diglib.amphilsoc.org/node/582247/manifest",
                     "label": "Fund-raising solicitation letter for the Noether Memorial Fund from Florence Sabin, noted physician and the first woman to be elected to the National Academy of Sciences, to Bryn Mawr alumna Dorothy S. Backer. From the Florence Sabin Papers, Box 32, Folder 2.",
-                    "canvas": 0
+                    "canvas": 2
                 },
                 {
                     "image": "https://diglib.amphilsoc.org/cantaloupe/iiif/2/https%3A%2F%2Fdiglib.amphilsoc.org%2F_flysystem%2Ffedora%2F2025-01%2F432674-Service%2520File.jpg/full/1140,/0/default.jpg",
